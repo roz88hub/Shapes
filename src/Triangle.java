@@ -5,7 +5,7 @@ public class Triangle extends Shape{
   int heigth;
   
   
-  @Override
+  @Override 
   public void calculateArea() {
 	  
 	  double areaTriangle = (length * heigth)/ 2;

@@ -10,7 +10,7 @@ public class LearnDate {
 	
  public static void main(String[] args) {
 	 
-	 // Today's date and time will be current time
+	 // Today's date and time will be current time 
 	Date ddate = new Date();
 	System.out.println(ddate.getHours());
 	//Milliseconds since midnight Jan 1st, 1970;

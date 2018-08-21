@@ -1,4 +1,3 @@
-
 public class Square extends Shape {
 	
 	int length;
